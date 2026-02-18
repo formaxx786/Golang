@@ -1,10 +1,5 @@
 package main
 
-import (
-	"fmt"
-	"maps"
-)
-
 // maps -> hash,object,dict
 func main() {
 
